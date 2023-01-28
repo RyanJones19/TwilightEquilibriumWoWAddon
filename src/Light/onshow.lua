@@ -1,0 +1,1 @@
+glowSpells(_G.lightSpellButtons)

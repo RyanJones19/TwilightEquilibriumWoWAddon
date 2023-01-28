@@ -1,0 +1,1 @@
+stopGlowSpells(_G.lightSpellButtons)
