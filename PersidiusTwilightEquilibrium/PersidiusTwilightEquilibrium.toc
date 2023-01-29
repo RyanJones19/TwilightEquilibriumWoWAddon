@@ -1,0 +1,6 @@
+## Interface: 100005
+## Title: PersidiusTwilightEquilibrium
+## Notes: Custom Addon to highlight specific spells on your bars when spell weaving using twilight equilibrium
+## Author: Ryan Jones
+
+PersidiusTwilightEquilibrium.lua
